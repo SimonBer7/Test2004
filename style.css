@@ -7,3 +7,13 @@ table, th, td {
 button:hover{
     background-color: coral;
 }
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    color: #333;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
